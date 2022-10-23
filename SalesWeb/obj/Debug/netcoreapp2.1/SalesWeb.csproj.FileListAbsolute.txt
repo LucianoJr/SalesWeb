@@ -34,4 +34,3 @@ C:\dev\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.Views.pdb
 C:\dev\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.genruntimeconfig.cache
 C:\dev\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.CopyComplete
 C:\dev\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.AssemblyReference.cache
-C:\dev\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
